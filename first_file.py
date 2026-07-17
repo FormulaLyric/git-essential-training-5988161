@@ -3,5 +3,8 @@ number_two = 2
 
 number_3 = number + number_two
 
-def add():
-  return 
+def add(you, me):
+  numbers = you+me
+  return numbers
+
+#this is python comments
